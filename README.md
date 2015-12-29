@@ -45,7 +45,7 @@ A password change plugin for RainLoop Webmail using POST request to a password c
     
     function changePassword($username, $currentPassword, $newPassword) {
     
-      // Password chaning process here
+      // Password changing process here
       
       // Return 0 for success status
       $status = 0;
