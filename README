@@ -1,0 +1,1 @@
+Plugin that adds functionality to change the email account password via webhook. The webhook URL must accept POST request with parameters "username", "old_password", and "new_password". It is hightly suggest that you should call the webhook via HTTPS protocol, otherwise user privacy will be compromise.
